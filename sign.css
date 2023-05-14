@@ -1,0 +1,82 @@
+body{
+    background-color:  #8297a4;
+    font-family: sans-serif;
+}
+
+    form{
+        border: 2px solid white;
+        background-color: white;
+    width: 330px;
+    height: 350px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    }
+
+    #text6{
+        margin-left: 108px;
+    margin-top: 33px;
+    font-size: 35px;
+}
+
+input{
+    width: 220px;
+    border: none;
+    border-bottom: 1px solid;
+}
+
+#text1{
+    font-size: 12px;
+}
+
+#text2{
+    font-size: 12px;
+}
+
+#text3{
+    font-size: 12px;
+}
+
+#text4{
+    font-size: 12px;
+}
+
+#text5{
+    margin-left: 102px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+    
+    #d1{
+        margin-left: 55px;
+    }
+    
+    #d2{
+        margin-left: 55px;
+    }
+    
+    #d3{
+        margin-left: 55px;
+    }
+    
+    #d4{
+        margin-left: 55px;
+    }
+
+    button{
+        width: 88px;
+    height: 25px;
+    color: white;
+    background:  #6b95e4;
+    border: none;
+    margin-left: 125px;
+    margin-top: 17px;
+}
+
+#text7{
+    color: #2600d1;
+}
+    
